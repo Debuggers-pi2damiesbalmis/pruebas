@@ -6,3 +6,5 @@
 
 \* Mi lenguaje favorito es C#, Java \& mySQL.
 
+\* Me gusta los espaguetis a la carbonara.
+
