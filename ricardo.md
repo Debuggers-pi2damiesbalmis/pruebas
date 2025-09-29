@@ -8,3 +8,5 @@
 
 \* Hola me llamo Ricardo y me gustan las patatas fritas
 
+Me gusta jugar videojuegos, ver series y anime, cocinar y hacer deporte
+
