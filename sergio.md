@@ -4,3 +4,5 @@
 * Mi lenguaje favorito es C#.
 
 *Quiero hacer un juego multijugador
+
+*Mi hobbie es jugar a videjuegos, escuchar música y hacer videjuegos
