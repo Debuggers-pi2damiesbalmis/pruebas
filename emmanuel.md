@@ -8,3 +8,6 @@
 
 \* Me gusta los espaguetis a la carbonara.
 
+\* Me gusta la asignatura de proyecto :/
+
+\* Y me gusta jugar al FIFA.
